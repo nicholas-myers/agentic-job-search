@@ -1,0 +1,2 @@
+remotejobsfinder.co
+globalwork.ai
