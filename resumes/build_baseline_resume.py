@@ -127,16 +127,10 @@ def build() -> Document:
     )
 
     p = doc.add_paragraph()
-    r = p.add_run("Earlier roles")
+    r = p.add_run("Earlier experience")
     r.bold = True
-    add_bullets(
-        doc,
-        [
-            "Cable Technician, Spectra Broadband (2019 – 2020): residential installs and troubleshooting; "
-            "strong customer satisfaction track record.",
-            "Customer Support Representative, Xerox / Verizon program (2016 – 2019): technical phone "
-            "support with consistent quality-assurance performance.",
-        ],
+    doc.add_paragraph(
+        "Customer-facing technical roles (2016–2020): phone support and field troubleshooting."
     )
 
     add_section_heading(doc, "Certifications")
