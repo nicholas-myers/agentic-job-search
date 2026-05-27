@@ -1,0 +1,13 @@
+---
+description: Canonical LinkedIn profile URL for Nick Myers across this repo
+alwaysApply: true
+---
+
+# LinkedIn profile URL
+
+Use this exact URL whenever the LinkedIn profile link appears (resumes, cover letters, generators, master docs, README, etc.):
+
+`https://www.linkedin.com/in/nmyersdev/`
+
+- Do not substitute older or alternate vanity URLs (for example `nicholas-myers-professional`).
+- Do not change third-party URLs that mention LinkedIn only as a referrer or parameter (for example job-board `src=LinkedIN` query strings).

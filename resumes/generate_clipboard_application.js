@@ -113,7 +113,7 @@ function buildResume() {
             { size: 22 }
           ),
           center(
-            "https://www.linkedin.com/in/nicholas-myers-professional/",
+            "https://www.linkedin.com/in/nmyersdev/",
             { size: 20 }
           ),
           body(
@@ -196,7 +196,7 @@ function buildCoverLetter() {
           center("Nick Myers", { bold: true, size: 32 }),
           center("Portland, OR · Remote", { size: 22 }),
           center(
-            "https://www.linkedin.com/in/nicholas-myers-professional/",
+            "https://www.linkedin.com/in/nmyersdev/",
             { size: 20 }
           ),
           body(today, { after: 200 }),

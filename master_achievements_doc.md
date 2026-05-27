@@ -16,7 +16,7 @@ Private working file: source of truth for resumes, LinkedIn, cover letters, and 
 |--------|--------|
 | Location | Portland, OR |
 | Target | Full-stack / software engineer (remote or hybrid) |
-| LinkedIn | https://www.linkedin.com/in/nicholas-myers-professional/ |
+| LinkedIn | https://www.linkedin.com/in/nmyersdev/ |
 | RDI tenure (baseline) | May 2021 – January 2025 *(verify exact end date)* |
 | Title progression | Programmer/Analyst → Senior Programmer/Analyst |
 

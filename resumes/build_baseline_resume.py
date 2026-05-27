@@ -46,7 +46,7 @@ def build() -> Document:
 
     add_center_line(doc, "Nick Myers", bold=True, size_pt=20)
     add_center_line(doc, "Full-Stack Software Engineer · Portland, OR · Open to remote / hybrid", size_pt=11)
-    add_center_line(doc, "https://www.linkedin.com/in/nicholas-myers-professional/", size_pt=10)
+    add_center_line(doc, "https://www.linkedin.com/in/nmyersdev/", size_pt=10)
 
     doc.add_paragraph(
         "Full-stack engineer with experience shipping web applications, APIs, integrations, and data "
